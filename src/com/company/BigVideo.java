@@ -1,6 +1,6 @@
 package com.company;
 
-public class BigVideo {
+public class BigVideo extends NormalVideo{
     public static void main(String[] args) {
         System.out.println("40 to 100GB ~ 25.000kbps");
     }
